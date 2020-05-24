@@ -1,0 +1,70 @@
+body {
+  height: 100%;
+}
+#text {
+  font-size: 30px;
+  padding-right: 5px;
+}
+
+#author {
+  padding-right: 100px;
+  font-size: 20px;
+}
+
+#mine {
+  margin-top: 15%;
+  font-family: "Bad Script", cursive;
+  color: white;
+}
+
+#tweet-quote {
+  size: 20px;
+  text-decoration: none;
+}
+
+#new-quote {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-left: 63%;
+  margin-bottom: 50px;
+}
+
+#new-quote:hover {
+  cursor: grab;
+}
+
+#quote-box {
+  margin-top: 40px;
+  background-color: WhiteSmoke;
+  border-style: solid;
+
+  border-radius: 20px;
+  font-family: "Dosis", sans-serif;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+#foot {
+  padding-top: 0px;
+  padding-bottom: 40px;
+  width: 100%;
+  /* Height of the footer*/
+  height: 5px;
+  background: grey;
+}
+
+#git {
+  padding-left: 3px;
+}
